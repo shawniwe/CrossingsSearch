@@ -39,6 +39,8 @@ namespace CrossingsSearcher.Tools.Managers
             {
                 _items.Remove(ir);
             }
+
+            _itemsToRemove = new List<T>();
         }
     }
 }
