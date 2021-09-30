@@ -17,7 +17,7 @@ namespace CrossingsSearcher
 
         static void Main(string[] args)
         {
-            // Инициализируем списки "пользователи" и "отпуски"
+            // Инициализируем менеджеры пользователей и отпусков
             usersManager = new UsersManager();
             vacationManager = new VacationsManager();
 
