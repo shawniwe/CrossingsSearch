@@ -1,0 +1,7 @@
+C:\Users\shawniwe\source\repos\CrossingsSearcher\ConsoleApp15\obj\Debug\CrossingsSearcher.csprojAssemblyReference.cache
+C:\Users\shawniwe\source\repos\CrossingsSearcher\ConsoleApp15\obj\Debug\CrossingsSearcher.csproj.CoreCompileInputs.cache
+C:\Users\shawniwe\source\repos\CrossingsSearcher\ConsoleApp15\bin\Debug\CrossingsSearcher.exe.config
+C:\Users\shawniwe\source\repos\CrossingsSearcher\ConsoleApp15\bin\Debug\CrossingsSearcher.exe
+C:\Users\shawniwe\source\repos\CrossingsSearcher\ConsoleApp15\bin\Debug\CrossingsSearcher.pdb
+C:\Users\shawniwe\source\repos\CrossingsSearcher\ConsoleApp15\obj\Debug\CrossingsSearcher.exe
+C:\Users\shawniwe\source\repos\CrossingsSearcher\ConsoleApp15\obj\Debug\CrossingsSearcher.pdb
